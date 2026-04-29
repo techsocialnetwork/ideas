@@ -20,3 +20,4 @@ A timestamped public record of concepts, frameworks, and architectural ideas.
 
 *New ideas added as they emerge. The commit timestamp is the proof of date.*
 | 2026-04-29 | [Unified Communication Intelligence Layer](2026-04-29-unified-communication-intelligence-layer.md) | All channels → AI filter + classifier + personal context → single priority stream |
+| 2026-04-29 | [PMS-Connect Protocol](2026-04-29-pms-connect-protocol.md) | AI-native communication protocol with user-controlled public JSON feed, granular visibility, and AI-to-AI handshake |
